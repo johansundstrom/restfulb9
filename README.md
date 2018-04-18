@@ -8,15 +8,16 @@ url:port/api/site
 
 url:port/api/:site
 
-url:port/api/site/floors
+url:port/api/site/floor
 
-url:port/api/:site/:floors
+url:port/api/:site/:floor
 
-url:port/api/site/floors/rooms
+url:port/api/site/floor/room
 
-url:port/api/:site/:floors/:rooms
+url:port/api/:site/:floor/:room
 
-url:port/api/site/floors/rooms/temps
+url:port/api/site/floor/room/temp
 
-url:port/api/:site/:floors/:rooms/:temps
+url:port/api/:site/:floor/:room/:temp
 
+url:port/api/account
